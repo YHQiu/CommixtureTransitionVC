@@ -46,7 +46,7 @@
 /* Begin PBXFileReference section */
 		3AF05571FD6A5774EBE4B057 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		495552AAAE6F81084E83FE58 /* Pods-CommixtureTransitionVC_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CommixtureTransitionVC_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CommixtureTransitionVC_Tests/Pods-CommixtureTransitionVC_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		5D84D0E96683A56FA39BEE65 /* CommixtureTransitionVC.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CommixtureTransitionVC.podspec; path = ../CommixtureTransitionVC.podspec; sourceTree = "<group>"; };
+		5D84D0E96683A56FA39BEE65 /* CommixtureTransitionVC.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CommixtureTransitionVC.podspec; path = ../CommixtureTransitionVC.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5E32C6C52248A27000CB1ED5 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		5E32C6C92248A29800CB1ED5 /* CTCommixtureTransitionVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CTCommixtureTransitionVC.h; sourceTree = "<group>"; };
 		5E32C6CA2248A29800CB1ED5 /* CTCommixtureTransitionVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CTCommixtureTransitionVC.m; sourceTree = "<group>"; };

@@ -24,7 +24,7 @@ pod 'CommixtureTransitionVC'
 
 QiuHongyu, 632244510@qq.com
 ## DEMO
-![Image text](https://github.com/YHQiu/HYProgressBar/blob/master/CT.gif)
+![Image text](https://github.com/YHQiu/CommixtureTransitionVC/blob/master/Example/CT.gif)
 ## License
 
 CommixtureTransitionVC is available under the MIT license. See the LICENSE file for more info.
