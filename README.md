@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/CommixtureTransitionVC.svg?style=flat)](https://cocoapods.org/pods/CommixtureTransitionVC)
 [![Platform](https://img.shields.io/cocoapods/p/CommixtureTransitionVC.svg?style=flat)](https://cocoapods.org/pods/CommixtureTransitionVC)
 
+## Feature
+This is a container for WebView or RCTRootView suportting frame Time and improving User Experience!!
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
