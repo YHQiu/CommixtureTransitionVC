@@ -1,0 +1,6 @@
+framework module CommixtureTransitionVC {
+  umbrella header "CommixtureTransitionVC-umbrella.h"
+
+  export *
+  module * { export * }
+}

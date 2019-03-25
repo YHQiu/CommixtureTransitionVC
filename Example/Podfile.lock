@@ -1,0 +1,16 @@
+PODS:
+  - CommixtureTransitionVC (0.1.0)
+
+DEPENDENCIES:
+  - CommixtureTransitionVC (from `../`)
+
+EXTERNAL SOURCES:
+  CommixtureTransitionVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CommixtureTransitionVC: 5e4bc2af85dd0b682c35baa75f78a2a0add6dead
+
+PODFILE CHECKSUM: 7460beb0ed2927cf6702344b883e103a2c2c2146
+
+COCOAPODS: 1.5.3
