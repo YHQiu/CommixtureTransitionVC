@@ -58,6 +58,7 @@
 		5E32C6D32248A54200CB1ED5 /* CTWebViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CTWebViewController.m; sourceTree = "<group>"; };
 		5E32C6D52248A56500CB1ED5 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		5E32C6D72248B08000CB1ED5 /* CT.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CT.gif; sourceTree = "<group>"; };
+		5EE6180A2268482700A6E40D /* CTManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CTManager.h; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* CommixtureTransitionVC_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CommixtureTransitionVC_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -123,6 +124,7 @@
 				5E32C6CD2248A2ED00CB1ED5 /* CTNavigationAnimator.m */,
 				5E32C6CF2248A31D00CB1ED5 /* CTBaseAnimator.h */,
 				5E32C6D02248A31D00CB1ED5 /* CTBaseAnimator.m */,
+				5EE6180A2268482700A6E40D /* CTManager.h */,
 			);
 			name = Classes;
 			path = ../CommixtureTransitionVC/Classes;
@@ -305,6 +307,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
