@@ -12,6 +12,13 @@ This is a container for WebView or RCTRootView suportting frame Time and improvi
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+In your webvc.m
+CTCommixtureTransitionRegesterVC(webvc)
+
+Now all things are ready!!
+
+When you push webvc, the CTComixtureTransition will preload your ViewController! 
+
 ## Requirements
 
 ## Installation
